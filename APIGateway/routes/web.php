@@ -31,4 +31,7 @@ $router->group(['middleware' => 'client.credentials'], function () use ($router)
     $router->put('/books/{book}', 'BookController@update');
     $router->patch('/books/{book}', 'BookController@update');
     $router->delete('/books/{book}', 'BookController@destroy');
+
+
+    $router->get('/credits', 'FunderController@index');
 });

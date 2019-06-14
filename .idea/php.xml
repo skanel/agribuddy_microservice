@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/APIGateway/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/console" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/cache" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/pagination" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/auth" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/log" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/session" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/hashing" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/broadcasting" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/pipeline" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/view" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/encryption" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/translation" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/http" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/config" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/queue" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/validation" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/league/oauth2-server" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/league/event" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/dusterio/lumen-passport" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/laravel/passport" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/laravel/lumen-framework" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/composer" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/defuse/php-encryption" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/illuminate/bus" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/flipbox/lumen-generator" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/APIGateway/vendor/classpreloader/classpreloader" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/APIGateway/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
